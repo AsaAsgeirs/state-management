@@ -11,7 +11,5 @@ The third party solutions used are:
 - [zustand](https://www.npmjs.com/package/zustand)
 - [context-selector](https://www.npmjs.com/package/context-selector)
 
-This is a Next.js project bootstrapped with create-next-app.
-
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
