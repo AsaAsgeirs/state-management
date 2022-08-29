@@ -1,4 +1,4 @@
-#State Management
+# State Management - Module 6
 --------------------------------------------------------
 A simple counter with a state that is updated with a click of a button.
 
